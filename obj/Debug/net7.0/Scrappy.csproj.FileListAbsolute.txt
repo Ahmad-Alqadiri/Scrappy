@@ -1,0 +1,14 @@
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\obj\Debug\net7.0\Scrappy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\obj\Debug\net7.0\Scrappy.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\obj\Debug\net7.0\Scrappy.AssemblyInfo.cs
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\obj\Debug\net7.0\Scrappy.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\bin\Debug\net7.0\Scrappy.exe
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\bin\Debug\net7.0\Scrappy.deps.json
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\bin\Debug\net7.0\Scrappy.runtimeconfig.json
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\bin\Debug\net7.0\Scrappy.dll
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\bin\Debug\net7.0\Scrappy.pdb
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\obj\Debug\net7.0\Scrappy.dll
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\obj\Debug\net7.0\refint\Scrappy.dll
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\obj\Debug\net7.0\Scrappy.pdb
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\obj\Debug\net7.0\Scrappy.genruntimeconfig.cache
+C:\Users\Bruger\source\repos\Scrappy\Scrappy\obj\Debug\net7.0\ref\Scrappy.dll

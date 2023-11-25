@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HFdxzDY4L/KNk+m8NgQSMoJ3YSlNwXLqo9XGFILHLlrRws8xQkL43cqsEZhhWvSEllJrrcUj0digrG4ablRHTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruger\\source\\repos\\Scrappy\\Scrappy\\Scrappy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
